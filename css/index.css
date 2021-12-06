@@ -82,7 +82,6 @@ label{
 	width: 100%;
 	border: 1px solid #ccc;
 	padding: .7em;
-	width: 100%;
 }
 
 .campo-medio{
@@ -134,4 +133,7 @@ button[disabled=disabled], button:disabled {
 }
 .paciente-invalido{
 	background-color: lightcoral;
+}
+#mensagens-erro{
+	color: red;
 }
